@@ -97,13 +97,11 @@ a:hover {
 .button {
   background-color: #55c1c9;
   padding: 10px;
-  border-radius: 5%
 }
 
 .button:hover {
   background-color: #c2f2f3;
   padding: 10px;
-  border-radius: 10%
 }
 
 .padding-links {
